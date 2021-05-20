@@ -9,7 +9,7 @@ Followings are the result of the Dynamics model, controller, and estimator desig
 ![Image 6](results/STD_results.png)
 
 
-Refrences:
+Refrences:\
 Quadrotor Dynamics and Control Rev 0.1  by Randal Beard
 https://andrew.gibiansky.com/blog/physics/quadcopter-dynamics/
 https://www.electricrcaircraftguy.com/2013/09/propeller-static-dynamic-thrust-equation.html
